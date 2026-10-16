@@ -1,0 +1,10 @@
+{
+  "environment": "development",
+  "apiBaseUrl": "http://127.0.0.1:8765",
+  "apiPrefix": "/api/v1",
+  "connectTimeoutMs": 20000,
+  "receiveTimeoutMs": 30000,
+  "enableOfflineSync": true,
+  "imageMaxWidth": 1600,
+  "imageQuality": 75
+}
